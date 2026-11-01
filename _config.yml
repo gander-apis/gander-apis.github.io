@@ -1,0 +1,15 @@
+title: gander-apis
+tagline: custom API projects and implementations by gander
+description: Projects and implementations of custom APIs by gander.
+url: https://gander-apis.github.io
+baseurl: ""
+owner:
+  name: gander
+  url: https://github.com/gander
+org_url: https://github.com/gander-apis
+markdown: kramdown
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
